@@ -1,5 +1,5 @@
 # Heart rate estimation| SciPy
-This a personal project using Python. Using, classical digital signal processing techniques, we can estimate the heart rate of a subject given a signal acquired from an electrocardiogram (ECG).  
+This a personal project using Python. Using classical digital signal processing techniques, we can estimate the heart rate of a subject given a signal acquired from an electrocardiogram (ECG).  
 
 ## How to use :
 You need to download all the files in your working directory. Make sure to install NumPy and SciPy in order to make use of this code. 
